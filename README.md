@@ -1,5 +1,5 @@
 # Currently In Progress
-- **Music Integration**: Connect to platforms like Spotify to play personal playlists in the background.
+- **This Goriller Loves Muzicc [Music Integration]**: Connect to platforms like Spotify to play personal playlists in the background.
 
 # Not In Progress
 - **Oh, The Banners You Go!** - Mod that lets you change shop banners [Credit: CharrMC]
