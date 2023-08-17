@@ -1,0 +1,36 @@
+# Currently In Progress
+- **Music Integration**: Connect to platforms like Spotify to play personal playlists in the background.
+
+# Not In Progress
+- **Oh, The Banners You Go!** - Mod that lets you change shop banners [Credit: CharrMC]
+- **Stealth Gorilla** - Invis mod that lets you sneak up on your friends [Credit: Brennon The Lemon]
+- **Lucy, Where are you!?** - Mod that brings lucy back into the game [Credit: Mr.odd Gamer]
+- **Midnight Mine** - Mod that adds a gamemode to make caves very dark and lava monkeys have night vision [Credit: Lotto]
+- **Custom Gorilla Animations**: Personalize your gorilla's celebratory dances or movements.
+- **Gorilla Emojis**: Emote system to communicate non-verbally with other players.
+- **Color Trail**: A colored trail that follows your movements, disappearing after a few seconds.
+- **Detailed Player Profiles**: Show off stats, achievements, and chosen aesthetics, similar to discord profiles.
+- **Custom Tag Effects**: Personalize the visual effects seen when tagging someone.
+- **Personalized Lobby**: A personal space to decorate and invite friends.
+- **Environment Themes**: Change the look of the game with holiday or seasonal themes.
+- **Gesture Recognition Library**: Perform specific hand gestures to activate pre-set actions or emotes.
+- **Replay and Save**: Record your games and save or share highlights.
+- **Dynamic Weather Effects**: Introduce cosmetic weather changes that don't affect gameplay.
+- **Themed Sound Effects**: Customize the in-game sounds based on different themes (e.g., sci-fi, medieval).
+- **Quick Commands**: Pre-set voice commands for strategy or communication.
+- **Daily Challenges**: Introduce daily non-intrusive challenges to keep players engaged.
+- **Achievement System**: Earn achievements based on various in-game actions.
+- **Sticker Book**: Collect stickers or badges based on game milestones and display them in a book.
+- **Daily Recap Highlights**: At the end of the day, get a montage of your best in-game moments.
+- **Custom Loading Screens**: Personalize or theme your loading screens.
+- **Leaderboard and Stats**: An extended leaderboard with more in-depth stats and metrics.
+- **Mood Lighting**: Set the mood with ambient lighting settings that don't affect gameplay but add a vibe.
+- **Event Calendars**: For organizing or being informed about upcoming community events or tournaments.
+- **Personalized Footprints**: Leave temporary footprints of your choice.
+- **Player Titles**: Unlockable titles displayed next to a player's name based on achievements.
+- **Daily Inspirations**: Receive daily quotes or fun facts every time you log in.
+- **Gorilla Lore**: Discover snippets of lore about the Gorilla Tag world.
+- **Daily Trivia**: Introduce a daily trivia question related to gorillas or jungles.
+- **Community Spotlight**: Highlight community content, events, or notable players.
+- **Custom Victory Poses**: Personalize your gorilla's pose when getting the last tag.
+- **Interactive Fan Wall**: Showcase fan art or content within the game.
